@@ -1,16 +1,5 @@
 # flutter_todo
 
-A new Flutter project.
+A simple todo app. Inspired by: [Johannes Milke tutorial](https://www.youtube.com/watch?v=kN9Yfd4fu04)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="250" alt="image" src="https://user-images.githubusercontent.com/11222413/156860630-a4cd901a-53b9-40b1-843b-c84ac765d9b2.png"> <img width="250" alt="image" src="https://user-images.githubusercontent.com/11222413/156860897-3e7b23c6-d18a-4cfd-8aaf-4aa68ca0e4d5.png"> <img width="250" alt="image" src="https://user-images.githubusercontent.com/11222413/156860938-a989db4f-16fa-46ee-a549-948c2e630a07.png">
